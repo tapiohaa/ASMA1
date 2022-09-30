@@ -1,6 +1,6 @@
 # README for replication files 
 
-Article: “Do the Poor Respond More to Cost Sharing in Primary Care? Evidence from a Regression Discontinuity Design” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+Article: “Do Low-Income Households Respond More to Cost Sharing in Primary Care? Evidence from Regression Discontinuity Design” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
 
 Version 1: https://osf.io/vmuzf/
 
