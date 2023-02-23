@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Do Low-Income Households Respond More to Cost Sharing in Primary Care? Evidence from Regression Discontinuity Design” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2022)
+Article: “Do Adolescents from Low-Income Families Respond More to Cost-Sharing in Primary Care?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
 
-Version 1: https://osf.io/vmuzf/
+Version 2 (latest), Version 1: https://osf.io/vmuzf/
 
-Date: September 2022 <br>
+Date: February 2023 <br>
 
 
 ## The contents
