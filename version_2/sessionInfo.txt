@@ -1,0 +1,19 @@
+R version 4.0.5 (2021-03-31)  
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rdlocrand_0.9     stargazer_5.2.2   openxlsx_4.2.5    lfe_2.8-7.1      
+ [5] Matrix_1.3-2      RDHonest_0.3.2    rdrobust_1.0.8    patchwork_1.1.1  
+ [9] ggplot2_3.3.5     data.table_1.14.2 readxl_1.3.1     
+
+loaded via a namespace (and not attached):
+ [1] zip_2.2.0        Rcpp_1.0.7       cellranger_1.1.0 pillar_1.6.4     compiler_4.0.5  
+ [6] tools_4.0.5      lifecycle_1.0.1  tibble_3.1.6     gtable_0.3.0     lattice_0.20-41 
+[11] pkgconfig_2.0.3  rlang_0.4.12     DBI_1.1.1        withr_2.4.3      dplyr_1.0.7     
+[16] generics_0.1.1   vctrs_0.3.8      grid_4.0.5       tidyselect_1.1.1 glue_1.5.1      
+[21] R6_2.5.1         fansi_0.5.0      Formula_1.2-4    purrr_0.3.4      magrittr_2.0.1  
+[26] scales_1.1.1     ellipsis_0.3.2   MASS_7.3-53.1    xtable_1.8-4     colorspace_2.0-2
+[31] sandwich_3.0-1   utf8_1.2.2       stringi_1.7.6    munsell_0.5.0    crayon_1.4.2    
+[36] zoo_1.8-9       
