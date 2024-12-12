@@ -1,10 +1,10 @@
 # README for replication files 
 
-Article: “Do Adolescents from Low-Income Families Respond More to Cost-Sharing in Primary Care?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
+Article: “Priced Out: Do Adolescents from Low-Income Families Respond More to Cost-Sharing in Primary Care?” (Haaga, Böckerman, Kortelainen, and Tukiainen, 2023)
 
-Version 2 (latest), Version 1: https://osf.io/vmuzf/
+Version 3 (latest), Version 2, Version 1: https://osf.io/vmuzf/
 
-Date: February 2023 <br>
+Date: November 2024 <br>
 
 
 ## The contents
